@@ -33,7 +33,7 @@ We welcome your contributions, large and small. Various ways you can help includ
 **************************************
 
 See the official website at:
-http://life.worldsowisdom.com/LifeOS/
+http://life.worldsowisdom.com/OS/
 
 
 Contact:
