@@ -1,7 +1,7 @@
 # LifeOS
 LifeOS is an online world featuring many evolving digital creations.
 
-http://life.worldsowisdom.com/LifeOS/
+http://life.worldsowisdom.com/OS/
 
 Birth date: March 07, 2017. Happy Birthday! :)
 
